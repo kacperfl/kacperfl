@@ -9,12 +9,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/kacperfl/count.svg?"  />
-</div>
-
-###
-
 <h1 align="center">hey there 👋</h1>
 
 ###
@@ -27,13 +21,6 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-
-
-###
 
 <h3 align="left">🔥   My Stats :</h3>
 
