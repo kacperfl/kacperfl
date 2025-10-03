@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm Kacper from Zaandijk, Netherlands<br><br>- 📚 I'm currently learning Javascript, Typescript and React</p>
+<p align="left">I'm Kacper from Zaandijk, Netherlands<br><br>- 📚 I'm currently learning Python!</p>
 
 ###
 
