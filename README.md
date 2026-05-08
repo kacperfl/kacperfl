@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm Kacper from Zaandijk, Netherlands<br><br>- 📚 I'm currently learning Python and C++ !</p>
+<p align="left">I'm Kacper from Zaandijk, Netherlands<br><br>- 📚 I'm currently learning Python, C++ and algorithms!</p>
 
 ###
 
