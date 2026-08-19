@@ -7,7 +7,7 @@
 ###
 
 <p align="left">I'm Kacper from Zaandijk, Netherlands<br><br>- 📚 I'm currently learning Python, C++ and algorithms!</p>
-<p align="left">- 🎮 Currently working on a 2D dungeon crawler in a groupe using Pygame!</p>
+<p align="left">- 🎮 Currently learning Data Science</p>
 
 ###
 
